@@ -146,3 +146,6 @@ The eventishObject returns an object containing related information to scrollZon
 * `removeSZ` - If `id` is not defined, will remove all scrollZone objects associated with the element. If `id` is defined, will remove all scrollZone objects with the id that are associated with the element.
 * `pauseSZ` - If `id` is not defined, will pause all scrollZone actions related to the element. If `id` is defined, will pause all scrollZone objects with the id that are associated with the element.
 * `startSZ` - If `id` is not defined, will start all scrollZone actions related to the element. If `id` is defined, will start all scrollZone objects with the id that are associated with the element.
+
+## License: Public Domain
+Please don't rename it or change credit away from me, James Anthony Bruno, because that would make me sad. It is fine, however, to make changes to scrollZone's core to suit your needs for use in your products (whether commercial, personal, or non-profit). If you believe you've found a better way for scrollZone to work, go ahead and message me and let me know! I would love to implement your fix. 
