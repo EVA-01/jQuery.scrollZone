@@ -8,7 +8,7 @@ Perform actions depending on where someone has or has not scrolled to.
     $(element).scrollZone(options);
     $(element).scrollZone([options, options, options]);
     $(window).scrollZone({
-     id:"zonebone", 
+     id:"trombone", 
      startY:100, 
      endY:400,
      startX:0, 
@@ -21,7 +21,7 @@ Perform actions depending on where someone has or has not scrolled to.
     });
     $(window).scrollZone([
      {
-      id:"zonebone", 
+      id:"trombone", 
       startY:100, 
       endY:400,
       startX:0, 
@@ -33,7 +33,7 @@ Perform actions depending on where someone has or has not scrolled to.
       }
      },
      {
-      id:"bonezone", 
+      id:"zonescroll", 
       startY:200, 
       endY:500,
       startX:0, 
